@@ -46,7 +46,7 @@ class HomeScreen extends StatelessWidget {
                     "Bom dia, \nEverton!",
                     style: Theme.of(context)
                         .textTheme
-                        .displayLarge
+                        .displaySmall
                         ?.copyWith(fontWeight: FontWeight.w900),
                   ),
                   Container(
